@@ -613,7 +613,7 @@ export default {
       // ArcGISRest瓦片资源
       const gaodeMapLayer = new TileLayer({
         source: new TileArcGISRest({
-          attributions: '版权归属 © <a href="###">德奥科技</a>',
+          attributions: '版权归属 © <a href="###">自定义科技</a>',
           ratio: 1,
           params: {},
           url: mapServer

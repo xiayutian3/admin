@@ -249,7 +249,7 @@ export default {
       ppxhType: [
         {
           value: '1',
-          label: '德奥科技'
+          label: '自定义科技'
         },
         {
           value: '2',

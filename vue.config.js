@@ -49,7 +49,7 @@ module.exports = {
     config
       .plugin('html')
       .tap(args => {
-        args[0].title = '德奥科技'
+        args[0].title = '自定义科技'
         return args
       })
       // delete console

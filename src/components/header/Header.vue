@@ -4,8 +4,8 @@
       <span class="inner">车辆汇聚平台</span>
     </div>
     <div class="logo">
-      <img class="logo_img" :src="logo" alt="德奥" />
-      <span>德奥技术</span>
+      <img class="logo_img" :src="logo" alt="自定义" />
+      <span>自定义技术</span>
     </div>
     <div class="user" v-if="isLogin">
       <div class="name">
